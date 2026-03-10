@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/passamanii">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/>
+   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/>
 </div>
     
 <div style="display: inline_block"><br>
