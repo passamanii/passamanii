@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/passamanii">
-   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=passamanii&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/>
+   <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api?username=passamanii&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/> -->
+   <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/> -->
+   <img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=dark&hide_border=false"/>
 </div>
     
 <div style="display: inline_block"><br>
