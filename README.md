@@ -1,12 +1,18 @@
-## Welcome To Luís Felipe Passamani Santos Profile!
+# Welcome To Luís Felipe Passamani Santos Profile!
 
+    I'm currently a Computer Science student in the Federal University of Espírito Santo.
+    Always getting better than yesterday.
+
+## Github Stats
  <div>
    <a href="https://github.com/passamanii">
    <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api?username=passamanii&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/> -->
    <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/> -->
    <img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=dark&hide_border=false"/>
 </div>
-    
+
+ ## Technologies Stack
+ 
 <div style="display: inline_block"><br>
  
   <img align="center" alt="C" height="30" width="40" alt="C" title="C"
@@ -22,7 +28,8 @@
 </div>
  
 <br>
- 
+
+##
 ### Redes Sociais e Contato:
  
 <div> 
