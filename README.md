@@ -27,9 +27,9 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-## Technologies Stack
+<!-- ## Technologies Stack
 
-<div style="display: inline_block"></div>
+<div style="display: inline_block"></div> -->
 
 ##
 ### Redes Sociais e Contato:
