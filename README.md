@@ -5,25 +5,36 @@
 
 ## Github Stats
  <div>
-   <a href="https://github.com/passamanii">
-   <img height="250" width="333" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" style="margin-right: 30px"/>
+   <a href="https://github.com/passamanii" style= "text-decoration: none; border: none;">
+   <img height="250" width="333" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" style="margin-right: 30px;"/>
    <img height="350" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=solarized_light&hide_border=false"/>
+   </a>
 </div>
 
  ## Languages Stack
  
-<div style="display: inline_block">
- 
-  <img align="center" alt="Js" height="30" width="40" alt="JavaScript" title="JavaScript"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" alt="C" title="C"
-   src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Python" height="30" width="40" alt="Python" title="Python"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" alt="Html" title="Html"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" alt="Css" title="Css"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block;">
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" style="text-decoration: none">
+    <img align="center" alt="Js" height="30" width="40" alt="JavaScript" title="JavaScript"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a/>
+<a>
+    <img align="center" alt="C" height="30" width="40" alt="C" title="C"
+    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+</a>
+<a>
+    <img align="center" alt="Python" height="30" width="40" alt="Python" title="Python"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+</a>
+<a>
+    <img align="center" alt="HTML" height="30" width="40" alt="Html" title="Html"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</a>
+<a>
+    <img align="center" alt="CSS" height="30" width="40" alt="Css" title="Css"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</a>
 </div>
  
 <!-- ## Technologies Stack
