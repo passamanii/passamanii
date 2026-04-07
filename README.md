@@ -6,9 +6,8 @@
 ## Github Stats
  <div>
    <a href="https://github.com/passamanii">
-   <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api?username=passamanii&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/> -->
-   <!-- <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passamanii"/> -->
-   <img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=dark&hide_border=false"/>
+   <img height="250" width="333" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" style="margin-right: 30px"/>
+   <img height="350" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=solarized_light&hide_border=false"/>
 </div>
 
  ## Languages Stack
