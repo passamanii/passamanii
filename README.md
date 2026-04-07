@@ -15,12 +15,12 @@
  
 <div style="display: inline_block">
  
+  <img align="center" alt="Js" height="30" width="40" alt="JavaScript" title="JavaScript"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C" height="30" width="40" alt="C" title="C"
    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
   <img align="center" alt="Python" height="30" width="40" alt="Python" title="Python"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" alt="JavaScript" title="JavaScript"
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" alt="Html" title="Html"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" alt="Css" title="Css"
