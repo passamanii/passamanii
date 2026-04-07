@@ -11,9 +11,9 @@
    <img height="270em" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=dark&hide_border=false"/>
 </div>
 
- ## Technologies Stack
+ ## Languages Stack
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  
   <img align="center" alt="C" height="30" width="40" alt="C" title="C"
    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
@@ -27,7 +27,9 @@
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-<br>
+## Technologies Stack
+
+<div style="display: inline_block"></div>
 
 ##
 ### Redes Sociais e Contato:
