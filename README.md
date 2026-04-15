@@ -7,6 +7,7 @@
  <div>
    <a href="https://github.com/passamanii" style= "text-decoration: none; border: none;"><img height="250" width="333" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" style="margin-right: 30px;"/></a>
    <a href="https://github.com/passamanii" style= "text-decoration: none; border: none;"><img height="350" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=solarized_light&hide_border=false"/></a>
+     <a href="https://github.com/passamanii" style= "text-decoration: none; border: none;"><img width="333" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=passamanii&theme=solarized"></a>
 </div>
 
  ## Languages Stack
