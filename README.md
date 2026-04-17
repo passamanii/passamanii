@@ -6,20 +6,21 @@
 ## Github Stats
 
 <div>
- <a href="https://github.com/passamanii" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" alt="Table of Github User Information"></a>
- <a href="https://github.com/passamanii" target="_blank"><img height="350" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=solarized_light&hide_border=false" alt="Table of Github User Information"></a>
- <a href="https://github.com/passamanii" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=passamanii&theme=solarized" alt="Table of Github User Information"></a>
+<a href="https://github.com/passamanii" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=passamanii&theme=solarized" alt="Table of Github User Information"></a>
+<a href="https://github.com/passamanii" target="_blank"><img width="509" src="https://github-readme-streak-stats.herokuapp.com/?user=passamanii&theme=solarized_light&hide_border=false" alt="Table of Github User Information"></a>
+<a href="https://github.com/passamanii" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=passamanii&theme=solarized" alt="Table of Github User Information"></a>
+<a href="https://github.com/passamanii" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=passamanii&theme=solarized" alt="Commits Details"></a>
 </div>
 
 
 ## Languages Stack
 
 <div>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img hspace="5" height="50" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt=""></a>
-<a href="https://en.cppreference.com/w/c/language.html"><img hspace="5" height="50" alt="C" title="C" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"></a>
-<a href="https://docs.python.org/3/"><img hspace="5" height="50" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img hspace="5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="Html" alt="Html"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img hspace="5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="Css" alt="Css"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img hspace="5" height="40" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt=""></a>
+<a href="https://en.cppreference.com/w/c/language.html"><img hspace="5" height="40" alt="C" title="C" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"></a>
+<a href="https://docs.python.org/3/"><img hspace="5" height="40" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="Html" alt="Html"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img hspace="5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="Css" alt="Css"></a>
 </div>
 
 ##
